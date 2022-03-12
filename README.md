@@ -54,7 +54,7 @@ So far so good, we've seen that before. The actually nice thing is, if I now mov
 ![image](https://user-images.githubusercontent.com/46029522/126866100-be3717da-cae6-4550-9e52-7719d00e49f7.png)  -->  ![image](https://user-images.githubusercontent.com/46029522/126866120-b2b8d0b1-2334-4be9-88d8-84bb825705a6.png)  -->  ![image](https://user-images.githubusercontent.com/46029522/126866136-ba068748-5698-4ca7-aeff-562ab0c435a0.png)
 
 ### 2.3 Disclaimer and other used plugins
-You might have noticed that you can't see the index files in the folders in view **(1)** and **(6)**, that is because I did not add a prefix to the index-file (so it's automatically named like the folder) and I also use the **Folder Note** plugin, just for the fact that it hides files in folders when they are named like the folder and displays them when you click on the folder (which is super nice for the MOC purpose here too).
+You might have noticed that you can't see the index files in the folders in view **(1)** and **(6)**, that is because I did not add a prefix to the index-file (so it's automatically named like the folder) and I also use the **[Folder Note](https://github.com/xpgo/obsidian-folder-note-plugin)** plugin, just for the fact that it hides files in folders when they are named like the folder and displays them when you click on the folder (which is super nice for the MOC purpose here too).
 
 
 
